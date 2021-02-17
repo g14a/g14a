@@ -11,7 +11,4 @@ Checkout my blog at [g14a.github.io](https://g14a.github.io/)
 Ping me on my email ID to suggest work opportunites or for hire. I'm always looking forward to work with wonderful collaborators.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g14a&hide=html)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=g14a&show_icons=true" alt="g14a" /> 
-</p>
+![g14a's github stats](https://github-readme-stats.vercel.app/api?username=g14a&show_icons=true)
