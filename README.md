@@ -6,7 +6,7 @@ Interests: `["Open Source", "Backend Dev", "Golang", "Postgres", "Docker", "cli"
 
 Other Interests: `["Photography","Illustrations","TV Shows"]`
 
-I work at [Skuad](https://www.skuad.io/) where I build the next generation software to build, pay, manage globally distributed teams.
+I work at [Skuad](https://www.skuad.io/) where I help my team build the next generation software to build, pay, manage globally distributed teams.
 
 Checkout my blog at [g14a.github.io](https://g14a.github.io/)
 
